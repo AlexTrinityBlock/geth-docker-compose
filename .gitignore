@@ -1,0 +1,7 @@
+chaindata
+jwt.hex
+/data/geth/geth/
+/data/geth/audit.log
+/data/geth/history
+/data/geth/keystore
+/data/prysm/*

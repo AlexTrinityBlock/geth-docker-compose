@@ -1,0 +1,6 @@
+*.yml
+*.txt
+*.md
+*.json
+LICENSE
+/data/geth/geth/
